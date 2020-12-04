@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tinker
+* source:	https://sketchfab.com/3d-models/tinker-fd48b090aff3411ca2e2dd2c57497244
+* author:	stevenjsetzer (https://sketchfab.com/stevenjsetzer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tinker" (https://sketchfab.com/3d-models/tinker-fd48b090aff3411ca2e2dd2c57497244) by stevenjsetzer (https://sketchfab.com/stevenjsetzer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
